@@ -8,6 +8,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SURYAULAGANATHAN/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/SURYAULAGANATHAN/leetcode-problems/tree/master/0228-summary-ranges) |
 | [0455-assign-cookies](https://github.com/SURYAULAGANATHAN/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/SURYAULAGANATHAN/leetcode-problems/tree/master/0890-lemonade-change) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SURYAULAGANATHAN/leetcode-problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
@@ -63,4 +64,5 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SURYAULAGANATHAN/leetcode-problems/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/SURYAULAGANATHAN/leetcode-problems/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
